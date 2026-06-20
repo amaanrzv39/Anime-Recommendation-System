@@ -3,8 +3,7 @@ pandas
 google-cloud-storage
 pyyaml
 joblib
-tensorflow-macos
-tensorflow-metal
+tensorflow
 comet-ml
 setuptools
 dvc
