@@ -1,0 +1,26 @@
+2026-06-15 01:46:19,607 - INFO - Data Processing Pipeline Started ....
+2026-06-15 01:46:20,093 - INFO - Data loaded sucesfully for Data Processing
+2026-06-15 01:46:20,192 - INFO - Filtered users sucesfully...
+2026-06-15 01:46:20,725 - INFO - Scalind done for Processing 
+2026-06-15 01:46:20,769 - INFO - Encoding done for Users and Anime
+2026-06-15 01:46:20,926 - INFO - Data splitted sucesfullyy
+2026-06-15 01:46:20,932 - INFO - user2user_encoded saved sucesfully in processed directory
+2026-06-15 01:46:20,936 - INFO - user2user_decoded saved sucesfully in processed directory
+2026-06-15 01:46:20,955 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2026-06-15 01:46:20,973 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2026-06-15 01:46:23,285 - INFO - ALl the training testing data as well as rating_df is saved now..
+2026-06-15 01:46:30,533 - INFO - Anime_df AND SYNOPSIS_Df saved sucesfullyy...
+2026-06-15 01:46:30,534 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2026-06-15 01:47:01,388 - INFO - Data Processing Pipeline Started ....
+2026-06-15 01:47:01,869 - INFO - Data loaded sucesfully for Data Processing
+2026-06-15 01:47:01,960 - INFO - Filtered users sucesfully...
+2026-06-15 01:47:02,467 - INFO - Scalind done for Processing 
+2026-06-15 01:47:02,512 - INFO - Encoding done for Users and Anime
+2026-06-15 01:47:02,682 - INFO - Data splitted sucesfullyy
+2026-06-15 01:47:02,688 - INFO - user2user_encoded saved sucesfully in processed directory
+2026-06-15 01:47:02,694 - INFO - user2user_decoded saved sucesfully in processed directory
+2026-06-15 01:47:02,716 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2026-06-15 01:47:02,738 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2026-06-15 01:47:05,026 - INFO - All the training testing data as well as rating_df is saved now..
+2026-06-15 01:47:12,286 - INFO - Anime_df AND SYNOPSIS_Df saved sucesfullyy...
+2026-06-15 01:47:12,287 - INFO - Data Processing Pipeline Run sucesfully .... Congrats

@@ -1,0 +1,15 @@
+2026-06-20 15:44:20,837 - INFO - Model Training & COMET ML initialized..
+2026-06-20 15:44:21,261 - INFO - Data loaded sucesfully for Model Trainig
+2026-06-20 15:44:21,280 - INFO - Loaded configuration from config.yaml
+2026-06-20 15:44:21,281 - ERROR - Error occurfed during model architecture 'model'
+2026-06-20 15:44:21,281 - ERROR - Error in /Users/nanu/Desktop/Projects/GCP-Mlops-Advance/Anime Recommendation/src/base_model.py , line 21 : Failed to create model
+2026-06-20 15:47:07,280 - INFO - Model Training & COMET ML initialized..
+2026-06-20 15:47:07,340 - INFO - Data loaded sucesfully for Model Trainig
+2026-06-20 15:47:07,356 - INFO - Loaded configuration from config.yaml
+2026-06-20 15:47:07,517 - INFO - Model created sucesfully....
+2026-06-20 15:48:57,838 - INFO - Model training Completedd.....
+2026-06-20 15:48:57,839 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-06-20 15:48:57,865 - INFO - Model saved to artifacts/model/model.h5
+2026-06-20 15:48:57,867 - INFO - Extracting weights for user_embedding
+2026-06-20 15:48:57,870 - INFO - Extracting weights for anime_embedding
+2026-06-20 15:48:57,883 - INFO - User and Anime weights saved sucesfully....
