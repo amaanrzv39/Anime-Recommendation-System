@@ -16,7 +16,7 @@ pipeline{
             steps{
                 script{
                     echo "Installing the dependencies in the virtual environment..."
-                    shs'''
+                    sh'''
                     python -m venv ${VENV_DIR}
                     . ${VENV_DIR}/bin/activate
                     pip install dvc-gs dvc
@@ -29,7 +29,7 @@ pipeline{
                 withCredentials([file(credentialsId: 'gcp-key', variable: 'GOOGLE_APPLICATION_CREDENTIALS')]){
                     script{
                         echo "Pulling the data from GCS using DVC..."
-                        shs'''
+                        sh'''
                         . ${VENV_DIR}/bin/activate
                         dvc pull
                         '''
