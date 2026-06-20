@@ -8,3 +8,5 @@ tensorflow-metal
 comet-ml
 setuptools
 dvc
+dvc-gs
+flask
