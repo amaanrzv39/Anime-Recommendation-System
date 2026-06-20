@@ -7,3 +7,5 @@ Anime_Recommender.egg-info/
 .venv/
 .env
 *.h5
+__pycache__/
+*.pyc
